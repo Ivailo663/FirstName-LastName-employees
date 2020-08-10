@@ -22,5 +22,5 @@ npm run build
 
 Run "npm run start-dev / npm run start" then open on local host 3002 
 
-Works with data format YYYY MM DD
+Works with data format YYYY-MM-DD
 
